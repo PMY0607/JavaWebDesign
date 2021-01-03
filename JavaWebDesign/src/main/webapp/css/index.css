@@ -1,0 +1,26 @@
+div.index_frame{
+		margin-left: auto;
+		margin-right: auto; 
+		/*width: 500px;
+		 height: 470px; */
+		 vertical-align: middle;
+		 
+}
+div.tb_div{
+	margin-top: 200px;
+	margin-bottom: 200px;
+	font-size: 27px;
+}
+
+div input{
+	width: 200px;
+	height: 37px;
+}
+
+span{
+	align-items: center;
+	font-size: 20px;
+	color: #ff560d;
+}
+
+

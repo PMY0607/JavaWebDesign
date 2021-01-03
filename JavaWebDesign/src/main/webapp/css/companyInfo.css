@@ -1,0 +1,51 @@
+.headpic,.fun_bt{
+    margin-left: 20px;
+    display: inline;
+}
+.company_pic{
+    width: 100px;
+}
+.fun_bt {
+    margin-left: auto;
+    display: inline;
+}
+
+.fun_bt a{
+    font-size: 27px;
+    color: #5bc0de;
+    margin-left: 27px;
+    text-decoration: none;
+}
+
+.company {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+.company_info {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    border: none;
+    font-size: 20px;
+    color: gray;
+    width: 230px;
+}
+
+.brief {
+    resize: none;
+    border: none;
+    width: 390px;
+    height: 170px;
+}
+
+.company_info_tb span {
+    font-size: 20px;
+}
+
+.company div{
+    margin-left: auto;
+}
